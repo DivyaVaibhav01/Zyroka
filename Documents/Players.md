@@ -34,14 +34,14 @@ const zyrokaPlayer = zyroka.createPlayer({
 });
 
 const songInfo = {
-  "title": zyrokaPlayerr.queue[0].current.info.title,
-  "uri": zyrokaPlayerr.queue[0].current.info.uri,
-  "image": zyrokaPlayerr.queue[0].current.info.artworkUrl,
-  "source": zyrokaPlayerr.queue[0].current.info.sourceName
+  "title": zyrokaPlayerr.queue[0].info.title,
+  "uri": zyrokaPlayerr.queue[0].info.uri,
+  "image": zyrokaPlayerr.queue[0].info.artworkUrl,
+  "source": zyrokaPlayerr.queue[0].info.sourceName
 };
 
 const requesterInfo = {
-    "name": zyrokaPlayerr.queue[0].current.requester.username,
-    "id": zyrokaPlayerr.queue[0].current.requester.id,
+    "name": zyrokaPlayerr.queue[0].requester.username,
+    "id": zyrokaPlayerr.queue[0].requester.id,
 }
 ```
