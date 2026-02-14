@@ -90,8 +90,3 @@ MIT License
 This is **ready to use**, professional-looking, with **badges, commands, setup, examples, and events**.  
 
 ---
-
-If you want, I can also make a **version with a logo, banner, and even prettier Markdown layout** for GitHub that looks like a full package page.  
-
-Do you want me to do that next?
-
