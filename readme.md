@@ -32,15 +32,8 @@
 
 ## ⚙️ Basic Setup
 ```js
-const { Client, GatewayIntentBits } = require("discord.js");
 const { Zyroka } = require("zyroka");
 const { Connectors } = require("shoukaku");
-
-const client = new Client({
-  intents: [
-    GatewayIntentBits....
-  ],
-});
 
 client.zyroka = new Zyroka({
     nodes: [{
@@ -57,7 +50,7 @@ client.zyroka = new Zyroka({
         restTimeout: 60000
     },
     defaultSearchEngine: "spsearch",
-}, new Connectors.DiscordJS(client));
+}, new Connectors.<YOUR CLIENT LIBRARY>(<DISCORD CLIENT>));
 
 client.login("token");
 ```
