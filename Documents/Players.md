@@ -15,7 +15,14 @@
 |   PlayerCreate    | player	        | Event of the player create.   |
 </center>
 
-# PlayerQueue
+## PlayerEvent
+```
+zyroka.on("trackStart", (player, track) => {
+const channelId = player.textId;
+});
+```
+
+## PlayerQueue
 ```
 const zyrokaPlayer = zyroka.createPlayer({
       guildId: guild.id,
@@ -37,11 +44,4 @@ const requesterInfo = {
     "name": zyrokaPlayerr.queue[0].current.requester.username,
     "id": zyrokaPlayerr.queue[0].current.requester.id,
 }
-```
-
-## Event
-```
-zyroka.on("trackStart", (player, track) => {
-const channelId = player.textId;
-});
 ```
