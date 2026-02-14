@@ -35,7 +35,7 @@
 const { Zyroka } = require("zyroka");
 const { Connectors } = require("shoukaku");
 
-client.zyroka = new Zyroka({
+const zyroka = new Zyroka({
     nodes: [{
       name: "Lavalink",
       url: "localhost:2333",
