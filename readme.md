@@ -31,7 +31,7 @@
 
 
 ## ⚙️ Basic Setup
-```bash
+```
 const { Zyroka } = require("zyroka");
 const { Connectors } = require("shoukaku");
 
