@@ -38,8 +38,7 @@
 
 ## ⚙️ Basic Setup
 ```
-const { Zyroka } = require("zyroka");
-const { Connectors } = require("shoukaku");
+const { Zyroka, Connectors } = require("zyroka");
 
 const zyroka = new Zyroka({
     nodes: [{
