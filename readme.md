@@ -31,7 +31,7 @@
 
 
 ## ⚙️ Basic Setup
-```js
+```bash
 const { Zyroka } = require("zyroka");
 const { Connectors } = require("shoukaku");
 
@@ -49,7 +49,7 @@ const zyroka = new Zyroka({
         reconnectTries: 10,
         restTimeout: 60000
     },
-    defaultSearchEngine: "<Lavalink Search Client>",
+    defaultSearchEngine: "<Lavalink Search Source>",
 }, new Connectors.<Your Client Library>(<Discord Client>));
 ```
 
