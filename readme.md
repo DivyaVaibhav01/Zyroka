@@ -68,15 +68,6 @@ client.login("token");
 > **[Shoukaku Docs](https://guide.shoukaku.shipgirl.moe/guides/1-getting-started/)**
 
 
-
-
-## 📜 License
-
-MIT License
----
-
-✅ **How to use this:**
-
 ## 🙏 Credits
 
 Zyroka is built **on top of [Shoukaku](https://github.com/Deivu/Shoukaku)**, a powerful Lavalink client for Discord.js.  
@@ -85,6 +76,12 @@ All Lavalink communication and node management are powered by Shoukaku.
 Special thanks to the Shoukaku team for creating such an amazing library.
 
 
+## 📜 License
+
+MIT License
+---
+
+✅ **How to use this:**
 1. Copy **everything** inside the code block above.  
 2. Open your repo (local or GitHub).  
 3. Create a file named `README.md`.  
