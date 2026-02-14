@@ -15,6 +15,29 @@
 |   PlayerCreate    | player	        | Event of the player create.   |
 </center>
 
+# PlayerQueue
+```
+const zyrokaPlayer = zyroka.createPlayer({
+      guildId: guild.id,
+      voiceId: voiceChannel.id,
+      textId: channel.id,
+      shardId: guild.shardId,
+      volume: 100,
+      deaf: false
+});
+
+const songInfo = {
+  "title": zyrokaPlayerr.queue[0].current.info.title,
+  "uri": zyrokaPlayerr.queue[0].current.info.uri,
+  "image": zyrokaPlayerr.queue[0].current.info.artworkUrl,
+  "source": zyrokaPlayerr.queue[0].current.info.sourceName
+};
+
+const requesterInfo = {
+    "name": zyrokaPlayerr.queue[0].current.requester.username,
+    "id": zyrokaPlayerr.queue[0].current.requester.id,
+}
+```
 
 ## Event
 ```
