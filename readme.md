@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1383202274494648455/1472277602256556132/wp11497399.png?ex=6991fcdd&is=6990ab5d&hm=365dccbc273dc78d7d8678dffc740cfc0708668f27afb41a64d18a6243312765&=&format=webp&quality=lossless&width=933&height=878" alt="GitHub Logo"/>
+  <img src="https://github.com/DivyaVaibhav01/Zyroka/blob/main/WorkSpace/logo.png" alt="GitHub Logo"/>
 </p>
 
 
