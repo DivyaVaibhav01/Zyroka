@@ -14,7 +14,6 @@
 ---
 
 ## 🚀 Features
-
 ✅ Robust **music queue system** (add, skip, loop, shuffle, remove)  
 ✅ **Multi-node support** with auto reconnect & failover  
 ✅ **Spotify, YouTube & SoundCloud** search/playback support  
