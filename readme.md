@@ -71,6 +71,9 @@ All Lavalink communication and node management are powered by Shoukaku.
 
 Special thanks to the Shoukaku team for creating such an amazing library.
 
+## 🔗 OtherLinks
+> **[Discord](https://discord.gg/pwEVpmjM)**
+> **[LavaLink](https://github.com/lavalink-devs/Lavalink)**
 
 ## 📜 License
 
