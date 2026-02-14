@@ -49,8 +49,8 @@ const zyroka = new Zyroka({
         reconnectTries: 10,
         restTimeout: 60000
     },
-    defaultSearchEngine: "spsearch",
-}, new Connectors.<YOUR CLIENT LIBRARY>(<DISCORD CLIENT>));
+    defaultSearchEngine: "<Lavalink Search Client>",
+}, new Connectors.<Your Client Library>(<Discord Client>));
 ```
 
 ## 📚 Documentation
