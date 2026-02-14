@@ -5,6 +5,8 @@
   </p>
 </p>
 
+![Logo](https://media.discordapp.net/attachments/1383202274494648455/1472277602256556132/wp11497399.png)
+
 ---
 
 ## 🚀 Features
