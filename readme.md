@@ -60,7 +60,8 @@ const zyroka = new Zyroka({
 ```
 
 ## 📚 Documentation
-> **[Zyroka Docs](https://github.com/DivyaVaibhav01/Zyroka/blob/main/Documents/Players.md)**  
+> **[Zyroka Docs](https://github.com/DivyaVaibhav01/Zyroka/blob/main/Documents/Players.md)**
+> 
 > **[Shoukaku Docs](https://guide.shoukaku.shipgirl.moe/guides/1-getting-started/)**
 
 
@@ -73,6 +74,7 @@ Special thanks to the Shoukaku team for creating such an amazing library.
 
 ## 🔗 OtherLinks
 > **[Discord](https://discord.gg/pwEVpmjM)**
+> 
 > **[LavaLink](https://github.com/lavalink-devs/Lavalink)**
 
 ## 📜 License
