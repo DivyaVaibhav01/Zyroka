@@ -54,7 +54,7 @@ const zyroka = new Zyroka({
 ```
 
 ## 📚 Documentation
-> **[Zyroka Docs]()**  
+> **[Zyroka Docs](https://github.com/DivyaVaibhav01/Zyroka/tree/main/Documents)**  
 > **[Shoukaku Docs](https://guide.shoukaku.shipgirl.moe/guides/1-getting-started/)**
 
 
