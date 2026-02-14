@@ -60,7 +60,7 @@ const zyroka = new Zyroka({
 ```
 
 ## 📚 Documentation
-> **[Zyroka Docs](https://github.com/DivyaVaibhav01/Zyroka/tree/main/Documents)**  
+> **[Zyroka Docs](https://github.com/DivyaVaibhav01/Zyroka/blob/main/Documents/Players.md)**  
 > **[Shoukaku Docs](https://guide.shoukaku.shipgirl.moe/guides/1-getting-started/)**
 
 
