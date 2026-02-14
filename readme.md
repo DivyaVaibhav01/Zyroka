@@ -25,8 +25,7 @@
 ✔ Discord.js **>=14.6.0**  
 ✔ Running **Lavalink server (v3 or v4)**
 
-> Install
-Npm: ```npm install zyroka```
+> ```npm install zyroka```
 
 ---
 
