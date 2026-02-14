@@ -51,8 +51,6 @@ const zyroka = new Zyroka({
     },
     defaultSearchEngine: "spsearch",
 }, new Connectors.<YOUR CLIENT LIBRARY>(<DISCORD CLIENT>));
-
-client.login("token");
 ```
 
 ## 📚 Documentation
