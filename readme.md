@@ -64,8 +64,10 @@ client.login("token");
 ```
 
 ## 📚 Documentation
-> [Zyroka Docs]()  
-> [Shoukaku Docs](https://deivu.github.io/Shoukaku/)
+> **[Zyroka Docs]()**  
+> **[Shoukaku Docs](https://guide.shoukaku.shipgirl.moe/guides/1-getting-started/)**
+
+
 
 
 ## 📜 License
