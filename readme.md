@@ -28,7 +28,7 @@
 ---
 
 ## 🛠️ Installation
-```npm install zyroka```
+Npm: ```npm install zyroka```
 
 
 ## ⚙️ Basic Setup
