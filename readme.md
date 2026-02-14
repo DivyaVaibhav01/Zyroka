@@ -65,7 +65,7 @@ const zyroka = new Zyroka({
 > **[Shoukaku Docs](https://guide.shoukaku.shipgirl.moe/guides/1-getting-started/)**
 
 
-## 🙏 Credits
+## 🤝 Contribution
 
 Zyroka is built **on top of [Shoukaku](https://github.com/Deivu/Shoukaku)**, a powerful Lavalink client for Discord.js.  
 All Lavalink communication and node management are powered by Shoukaku.  
