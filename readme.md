@@ -23,7 +23,9 @@
 
 ✔ Node.js **>=16.9.0**  
 ✔ Discord.js **>=14.6.0**  
-✔ Running **Lavalink server (v3 or v4)** :contentReference[oaicite:1]{index=1}
+✔ Running **Lavalink server (v3 or v4)**
+
+> Install
 Npm: ```npm install zyroka```
 
 ---
