@@ -30,8 +30,7 @@
 ## 🛠️ Installation
 
 **Install from npm**
-```bash
-npm install zyroka```
+```npm install zyroka```
 
 
 ## ⚙️ Basic Setup
