@@ -75,18 +75,3 @@ Special thanks to the Shoukaku team for creating such an amazing library.
 > **[Discord](https://discord.gg/pwEVpmjM)**
 > 
 > **[LavaLink](https://github.com/lavalink-devs/Lavalink)**
-
-## 📜 License
-
-MIT License
----
-
-✅ **How to use this:**
-1. Copy **everything** inside the code block above.  
-2. Open your repo (local or GitHub).  
-3. Create a file named `README.md`.  
-4. Paste it, save, and commit.  
-
-This is **ready to use**, professional-looking, with **badges, commands, setup, examples, and events**.  
-
----
