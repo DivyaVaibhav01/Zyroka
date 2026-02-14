@@ -62,3 +62,38 @@ client.zyroka = new Zyroka({
 
 client.login("token");
 ```
+
+## 📚 Documentation
+
+[Zyroka Docs]()  
+[Shoukaku Docs](https://deivu.github.io/Shoukaku/)
+
+
+## 📜 License
+
+MIT License
+---
+
+✅ **How to use this:**
+
+## 🙏 Credits
+
+Zyroka is built **on top of [Shoukaku](https://github.com/Deivu/Shoukaku)**, a powerful Lavalink client for Discord.js.  
+All Lavalink communication and node management are powered by Shoukaku.  
+
+Special thanks to the Shoukaku team for creating such an amazing library.
+
+
+1. Copy **everything** inside the code block above.  
+2. Open your repo (local or GitHub).  
+3. Create a file named `README.md`.  
+4. Paste it, save, and commit.  
+
+This is **ready to use**, professional-looking, with **badges, commands, setup, examples, and events**.  
+
+---
+
+If you want, I can also make a **version with a logo, banner, and even prettier Markdown layout** for GitHub that looks like a full package page.  
+
+Do you want me to do that next?
+
