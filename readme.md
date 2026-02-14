@@ -32,3 +32,42 @@
 **Install from npm**
 ```bash
 npm install zyroka
+
+
+const { Client, GatewayIntentBits } = require("discord.js");
+const { Zyroka } = require("zyroka");
+const { Connectors } = require("shoukaku");
+
+const client = new Client({
+  intents: [
+    GatewayIntentBits.Guilds,
+    GatewayIntentBits.GuildMessages,
+    GatewayIntentBits.GuildVoiceStates,
+    GatewayIntentBits.MessageContent
+  ],
+});
+
+client.zyroka = new Zyroka({
+  nodes: [
+    {
+      name: "MainLavalink",
+      url: "localhost:2333",
+      auth: "youshallpass",
+      secure: false
+    }
+  ],
+  defaultSearchEngine: "spotify",
+  spotify: [
+    {
+      clientID: process.env.SPOTIFY_ID,
+      clientSecret: process.env.SPOTIFY_SECRET
+    }
+  ],
+  filters: {
+    bassBoost: true,
+    nightcore: false,
+    pitch: 1.0
+  }
+}, new Connectors.DiscordJS(client));
+
+client.login(process.env.TO
