@@ -1,0 +1,38 @@
+{
+  "name": "Zyroka",
+  "version": "0.0.1",
+  "description": "Zyroka – A modern, feature-rich Lavalink client for Discord bots. Effortlessly manage music queues, handle audio playback, and integrate seamless music features into your bot. Designed for developers who want full control and a smooth audio experience.",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "/dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DivyaVaibhav01/Zyroka.git"
+  },
+  "keywords": [
+    "lavalink",
+    "shoukaku",
+    "music",
+    "lavalink-api",
+    "discord"
+  ],
+  "author": "DivyaVaibhav01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DivyaVaibhav01/Zyroka/issues"
+  },
+  "homepage": "https://github.com/DivyaVaibhav01/Zyroka#readme",
+  "devDependencies": {
+    "@types/node": "^25.2.3",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "shoukaku": "^4.2.0"
+  }
+}
