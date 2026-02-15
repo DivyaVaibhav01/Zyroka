@@ -16,23 +16,33 @@
     "url": "git+https://github.com/DivyaVaibhav01/Zyroka.git"
   },
   "keywords": [
-    "lavalink",
-    "shoukaku",
+    "bot",
     "music",
+    "lavalink",
+    "api",
+    "discord",
+    "lavalink.js",
+    "discord.js",
     "lavalink-api",
-    "discord"
+    "weeb-library",
+    "shoukaku",
+    "lavalink-api"
   ],
   "author": "DivyaVaibhav01",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DivyaVaibhav01/Zyroka.git"
+  },
   "bugs": {
     "url": "https://github.com/DivyaVaibhav01/Zyroka/issues"
   },
   "homepage": "https://github.com/DivyaVaibhav01/Zyroka#readme",
+  "dependencies": {
+    "shoukaku": "^4.2.0"
+  },
   "devDependencies": {
     "@types/node": "^25.2.3",
     "typescript": "^5.9.3"
   },
-  "dependencies": {
-    "shoukaku": "^4.2.0"
-  }
 }
